@@ -21,7 +21,6 @@ A customer has added below products to basket
 | 1 | Cigarette | 200 | 28 | 3|
 | 1 | Honey | 100 | 0| 2
 
-
 PROBLEM TO SOLVE
 Create a suitable data structure to hold product details in the basket as per above table.
 1. Identify the product for which we paid maximum GST amount
@@ -29,3 +28,8 @@ Create a suitable data structure to hold product details in the basket as per ab
 
 #solution
 
+We created a structure in that we have taken all the product details and the structure name is cart.
+After that we had taken vector of type cart named items and then taken all the values given in the table.
+We then updated the unit price according to the discount condition given in the description.
+We then calculated the maximum gst amount for every product and then stored it in a variable called maxi_gst_pro.
+and taken the name in max_gst_pro_name and calculated the total amount by adding all values of curr_product. 
