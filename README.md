@@ -1,5 +1,12 @@
 # Shopping-Cart
 
+Name - Suraj Kumar
+College - IIIT Ranchi
+Year of Passing  - 2023
+Phone number - 8294083788
+Email address - suraj.btech.cs19@iiitranchi.ac.in
+
+
 A shopkeeper sells products. Some products are eligible for GST(Goods and Service
 Tax) and some are not. To attract customers the shopkeeper has offered a 5% discount
 for products whose unit price is Rs. 500 or more.
